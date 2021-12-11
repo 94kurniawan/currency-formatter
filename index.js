@@ -1,3 +1,5 @@
-exports.printMsg = function() {
+function printDulu () {
     console.log("This is a message from BK demo Package");
   }
+
+export {printDulu}
