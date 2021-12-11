@@ -1,10 +1,14 @@
 {
-  "name": "currency-formatter",
+  "name": "@null-reborn/currency-formatter",
   "version": "1.0.0",
   "description": "Tools for add currency format to your number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/94kurniawan/currency-formatter.git"
   },
   "keywords": [
     "vue",
@@ -14,5 +18,9 @@
     "currency-formatter"
   ],
   "author": "BK",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/94kurniawan/currency-formatter/issues"
+  },
+  "homepage": "https://github.com/94kurniawan/currency-formatter#readme"
 }
