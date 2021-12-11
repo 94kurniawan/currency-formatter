@@ -1,6 +1,6 @@
 {
   "name": "@null-reborn/currency-formatter",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "type": "module",
   "description": "Tools for add currency format to your number",
   "main": "index.js",
