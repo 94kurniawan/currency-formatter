@@ -14,9 +14,4 @@ function separator (number) {
   }).format(number);
 }
 
-const profil = {
-  name: "name kosong",
-  address: "Jalan Kosong"
-}
-
-export {currency,separator,profil}
+export default {currency,separator}
